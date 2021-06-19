@@ -76,7 +76,7 @@ padding:30px;
 @media (min-width:950px) {
   body{
 /*     margin:auto; */
-    margin:60px 8px;
+    margin:8px;
     align-items: center;
       min-height: 100vh;
 flex-direction: row;
